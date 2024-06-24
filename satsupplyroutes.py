@@ -121,9 +121,9 @@ def image_difference(image1_path, image2_path):
 
 
 # Configuration
-instance_id = '7611b6f5-07cd-4b7e-8528-9a3a270da08d'
-client_id = '44606ee6-b2f9-4ecc-8100-cc966b6ddf26'
-client_secret = 'F0N89rMX0CpDgTezHaKbXhORYkaqY4ws'
+instance_id = ''
+client_id = ''
+client_secret = ''
 
 # Initialize the data fetcher
 fetcher = SentinelDataFetcher(instance_id, client_id, client_secret)
